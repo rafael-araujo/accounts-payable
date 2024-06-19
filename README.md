@@ -96,3 +96,9 @@ curl -X POST -H 'Authorization: Basic YWRtaW46YWRtaW4=' -F "file=@/path/to/your/
 ```
 In application directory  ***'resouces/db/csv'*** exists a file example to use or
 use your CSV file.
+
+## Suggestions for future improvements
+
+1. Implementing a more robust authentication method like OAuth2 + JWT
+2. Implementation of documentation using Swagger
+3. Implementing authorization by diferents rules
